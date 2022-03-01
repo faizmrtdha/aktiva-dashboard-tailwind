@@ -6,7 +6,6 @@ const UserLogin = () => {
   return (
     <>
       <section className="h-screen">
-        {/* <div className="mx-auto"> */}
         <div className="flex h-full">
           <div className="w-4/12">
             <img
@@ -57,7 +56,6 @@ const UserLogin = () => {
             </div>
           </div>
         </div>
-        {/* </div> */}
       </section>
     </>
   );
